@@ -1,6 +1,6 @@
 # estruturas-de-dados
 
-# Projeto desenvolvido em Python com foco em aprendizado prático de estruturas de dados fundamentais.
+- Projeto desenvolvido em Python com foco em aprendizado prático de estruturas de dados fundamentais.
 
 # Funcionalidades:
 - Implementação de Tabela Hash com tratamento de colisões (Chaining)
