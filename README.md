@@ -8,10 +8,6 @@
 - Inserção e organização eficiente de dados
 - Demonstração de conceitos fundamentais de estruturas de dados
 
-# Tecnologias utilizadas:
-- Python
-- Estruturas de dados (Hash Table e Árvores)
-
 # Objetivos:
 - Funcionamento de tabelas hash
 - Tratamento de colisões
